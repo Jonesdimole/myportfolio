@@ -1,7 +1,7 @@
 📁 Portfolio Website – README
 🌐 Live Demo
 
-🔗 Portfolio Link: https://your-portfolio-link-here.com
+🔗 Portfolio Link:https://jonesdimole.github.io/myportfolio/
 
 (Replace this with your actual URL)
 
